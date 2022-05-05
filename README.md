@@ -1,4 +1,4 @@
-<div align="center" margin-bottom="100">Hi there 👋</div>
+<div align="center" class="hi">Hi there 👋</div>
 
 
 
@@ -23,3 +23,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<style>
+.hi{
+  margin-bottom: 100px;
+  }  
+</style>
