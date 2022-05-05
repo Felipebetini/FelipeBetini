@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipebetini&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipebetini&layout=default)
 
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipebetini&hide=contribs)
