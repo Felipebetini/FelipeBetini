@@ -3,7 +3,7 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipebetini&layout=compact&card_width=445&theme=nightowl)
 
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipebetini&hide=contribs)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipebetini&hide=contribs&theme=nightowl)
 
 <!--
 **Felipebetini/FelipeBetini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
