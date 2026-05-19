@@ -6,7 +6,8 @@
 
 ## 🚀 Tech Stack
 
-<p align="center"><img src="https://skillicons.dev/iconsi=wp,php,mysql,js,ts,react,vue,nextjs,nodejs,python,bash,git,docker,postgres,nginx,obsidian,playwright,yarn,figma,aws" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=wp,php,mysql,js,ts,vue,react,nextjs,nodejs,python,django,bash,git,github,docker,postgres,sqlite,nginx,linux,windows
+  ,cloudflare,aws,obsidian,playwright,tailwind,bootstrap,sass,css,html,jquery,yarn,webpack,composer,vscode,postman,figma,wireshark,burpsuite,kali" /></p>
 
 ---
 
