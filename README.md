@@ -6,9 +6,9 @@
 
  ## 🚀 Tech Stack
 
-<p align="center"><img src="https://skillicons.dev/icons?i=wordpress,php,mysql,js,ts,vue,react,nextjs,nodejs,python,django,bash,git,github,docker,postgres,sqlite,nginx,linu
-  x,windows,cloudflare,aws,obsidian,tailwind,bootstrap,sass,css,html,jquery,yarn,webpack,vscode,postman,figma,kali" />
-</p>
+  ![](https://skillicons.dev/icons?i=wordpress,php,mysql,js,ts,vue,react,nextjs,nodejs,python,django,bash,git,github,docker,postgres,sqlite,nginx,linux,window
+  s,cloudflare,aws,obsidian,tailwind,bootstrap,sass,css,html,jquery,yarn,webpack,vscode,postman,figma,kali&perline=13)
+
 
 ## 📊 GitHub Stats
 
