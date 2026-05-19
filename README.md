@@ -9,7 +9,7 @@
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,docker,postgres,figma,aws" />
+<img src="https://skillicons.dev/icons?i=wp,php,mysql,js,ts,react,nextjs,nodejs,python,bash,git,docker,postgres,nginx,obsidian,playwright,yarn,figma,aws" />
 </p>
 
 ---
