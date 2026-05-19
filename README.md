@@ -1,4 +1,4 @@
-# <div style="text-align=center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Felipe</div>
+# <p align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Felipe</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&pause=2000&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+AI-powered+products;Fullstack+Developer;Always+thinking+.+Always+creating" />
