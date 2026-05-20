@@ -1,12 +1,55 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Felipe 
+# Hey, I'm Felipe 👋
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&pause=500&color=58A6FF&center=true&vCenter=true&width=800&lines=Welcome+!;Frontend+Developer;Powered+by+AI;Never+Stop+Learning" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;Building+with+AI;Creating+Modern+Web+Experiences;Always+Learning+Something+New"
+  />
 </p>
 
+---
+
+## About Me
+
+- Frontend Developer focused on modern web experiences
+- Working with AI-powered applications & automation
+- Passionate about UI/UX, performance, and clean code
+- Always exploring new technologies
+
+---
+
 ## Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nodejs,python,php,wordpress,docker,mysql,aws,tailwind,figma,git,vscode,ableton,apple,azure,css,github,html,ai,kali,linux,md,lua,neovim,npm,postman,svelte,svg,tailwind,threejs,ubuntu,vercel,vim,vite,windows,wordpress,yarn&perline=9" /> </p>
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,tailwind,svelte,vite,threejs" />
+</p>
+
+### Backend & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,python,php,mysql,docker,aws,azure" />
+</p>
+
+### Tools & Design
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,linux,neovim,vscode" />
+</p>
+
+---
 
 ## Connect With Me
-<p align="center"> <a href="https://www.linkedin.com/in/felipe-betini-79ab02198/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> <a href="https://www.felipebetini.com/" target="_blank"> <img src="https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white" /> </a> </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/felipe-betini-79ab02198/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+
+  <a href="https://www.felipebetini.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Never stop building."</i>
+</p>
