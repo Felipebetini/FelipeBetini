@@ -34,7 +34,7 @@
 ### Tools & Design
 <p align="center">
     <img
-        src="https://skillicons.dev/icons?i=git,github,vscode,vim,neovim,npm,yarn,postman,figma,ai,ableton,kali,linux,ubuntu,windows,apple,md&perline=9" />
+        src="https://skillicons.dev/icons?i=git,github,obsidian,vscode,vim,neovim,npm,yarn,postman,figma,ai,ableton,kali,linux,ubuntu,windows,apple,md&perline=9" />
 </p>
 
 ## Connect With Me
