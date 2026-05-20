@@ -12,7 +12,7 @@
 
 - Frontend Developer focused on modern web experiences
 - Working with AI-powered applications & automation
-- Passionate about UI/UX, performance, and clean code
+- Passionate about UI/UX, performance
 - Always exploring new technologies
 
 ---
@@ -44,7 +44,7 @@
   </a>
 
   <a href="https://www.felipebetini.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=vercel" />
   </a>
 </p>
 
