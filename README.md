@@ -4,20 +4,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&pause=500&color=58A6FF&center=true&vCenter=true&width=800&lines=Welcome+!;Frontend+Developer;Powered+by+AI;Never+Stop+Learning" />
 </p>
 
-## About Me
-
-```js
-const felipe = {
-  code: ["JavaScript", "TypeScript", "Python", "PHP"],
-  technologies: {
-    frontend: ["React", "Vue", "Next.js", "Tailwind"],
-    backend: ["Node.js", "Django", "WordPress"],
-    devops: ["Docker", "NGINX", "AWS"],
-    databases: ["PostgreSQL", "MySQL", "SQLite"]
-  },
-  currentFocus: "AI Automations & Product Development",
-};
-```
 ## Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nodejs,python,django,php,wordpress,docker,postgres,mysql,aws,tailwind,figma,git,vscode&perline=9" /> </p>
 
