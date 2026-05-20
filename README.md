@@ -1,5 +1,8 @@
 # Hey, I'm Felipe 👋
 
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWU3MW5zdHY2bm5jd2t6NDNya3E1bTBraTdoaWR0MGRtcDI3ZTQwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif" />
+
+
 <p align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;Building+with+AI;Creating+Modern+Web+Experiences;Always+Learning+Something+New"
