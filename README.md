@@ -17,24 +17,22 @@
 
 ---
 
-## Tech Stack
+##  Tech Stack
 
 ### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,tailwind,svelte,vite,threejs" />
+<p align="center">
+  <img src="https://skillicons.dev/iconsi=html,css,js,ts,react,nextjs,vue,svelte,tailwind,threejs,vite,svg&perline=12" />
 </p>
 
 ### Backend & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,python,php,mysql,docker,aws,azure" />
+<p align="center">
+  <img src="https://skillicons.dev/iconsi=nodejs,python,php,wordpress,mysql,docker,aws,azure,vercel,lua&perline=10" />
 </p>
 
 ### Tools & Design
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,linux,neovim,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,neovim,npm,yarn,postman,figma,ai,ableton,kali,linux,ubuntu,windows,apple,md&perline=9" />
 </p>
-
----
 
 ## Connect With Me
 
